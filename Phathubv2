@@ -1,7 +1,7 @@
 
 (getgenv()).Config = {
  ["FastAttack"] = true,
- ["ClickAttack"] = true
+ ["ClickAttack"] = false
 } 
 
 coroutine.wrap(function()
